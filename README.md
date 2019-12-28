@@ -1,3 +1,4 @@
 # HAD
-run pro.m in matlab \\
-run puj.nb in matematica
+run *.m in matlab 
+
+run *.nb in matematica
